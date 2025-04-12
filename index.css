@@ -11,10 +11,11 @@
 
 body {
   background-color: var(--bg-primary);
-  background-image: url("nicola-samori.jpg");
+  background-image: url("img.png");
   background-size: cover;
   color: var(--fg-primary);
   height: 100%;
+  overflow: hidden
 }
 
 a {
@@ -34,4 +35,6 @@ ul {
   background-color: var(--bg-primary);
   list-style: none;
   padding: 2rem;
+  border-radius: 10%;
+  opacity: 80%;
 }
