@@ -2,6 +2,7 @@ const links = {
   g: "https://github.com",
   y: "https://youtube.com",
   d: "https://x.com",
+  c: "https://chat.com"
 };
 
 /**
